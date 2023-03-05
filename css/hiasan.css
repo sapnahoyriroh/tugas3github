@@ -1,0 +1,24 @@
+/* ini selector tag */
+p{
+  color: gold;
+  text-align: justify; 
+  font-family: 'gill sans'. 'gill sans MT',calibri, 'trebuchet MS', sans-serif;
+  font-size: 12pt;
+}
+body{
+    background-color: yellow;
+    background-image:url('../img/OIP.jpeg');   
+}
+/* fieldset css */
+
+fieldset, legend{
+    border: pink groove 5px;
+    border-radius: 30px;
+}
+legend{
+    padding: 10px;
+    font-weight: bold;
+    font-size: 14pt;
+}
+table{
+    border: 10px; ;
